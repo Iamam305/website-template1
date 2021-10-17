@@ -86,7 +86,7 @@
   /* ================ */
 
   .services {
-    width: 90%;
+    width: 97%;
   }
 
   /* ================ */
@@ -128,7 +128,7 @@
   }
 
   .about-text {
-    width: 80%;
+    width: 96%;
     background-color: rgba(65, 60, 60, 0.63);
     padding: 5%;
     color: #fff;
@@ -157,7 +157,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 80%;
+    width: 96%;
     height: auto;
     margin: auto;
     background: rgba(255, 255, 255, 0.548);
@@ -190,13 +190,13 @@
     align-items: center;
   }
   .map{
-    width: 90%;
+    width: 95%;
     height: 500px;
     margin-top: 70px;
   }
 
   .contact-form{
-    width: 90%;
+    width: 95%;
   }
   .form form *{
     margin: 10px auto;
